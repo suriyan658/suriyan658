@@ -33,19 +33,4 @@
 
 <div align="center">
 
-## ⚡ `SYSTEM ONLINE`
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                    S U R I Y A N   N S                       ║
-║                                                              ║
-║        [ VLSI ] [ SOFTWARE ] [ AI/ML ] [ GAME DEV ]         ║
-║                                                              ║
-║   STATUS        : ● ONLINE                                  ║
-║   CURIOSITY     : ∞ UNLIMITED                               ║
-║   LEARNING      : ████████████████████ ACTIVE               ║
-║   EXPERIMENTS   : █████████████████░░░ RUNNING              ║
-║   PROJECTS      : ███████████████░░░░ LOADING...            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
