@@ -1,96 +1,49 @@
 <div align="center">
 
-# 👋 Salve, I'm **Suriyan N S**
-
-### VLSI Student • Software Developer • AI/ML Explorer • Game Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Software+%26+AI+Projects;Exploring+VLSI+%26+Electronics;Learning+Full-Stack+Development;Creating+Games+%26+Interactive+Experiences;Exploring+AI%2C+LLMs+%26+Intelligent+Systems;Turning+Ideas+Into+Reality" alt="Typing Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,50:0369A1,75:0EA5E9,100:38BDF8&height=250&section=header&text=SURIYAN%20N%20S&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=VLSI%20%7C%20SOFTWARE%20%7C%20AI%20%7C%20GAME%20DEV&descAlignY=60&descSize=20&animation=twinkling" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=%3E+Initializing+Suriyan.exe...;%3E+VLSI+Engineer+in+Progress...;%3E+Building+AI+%26+Software...;%3E+Exploring+Game+Development...;%3E+Hardware+%2B+Software+%2B+AI;%3E+Curiosity+Mode%3A+%5BENABLED%5D" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00D26A?style=for-the-badge&logo=statuspage&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20SOFTWARE-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-LEARNING-8B5CF6?style=for-the-badge"/>
+
+<br><br>
+
 <a href="https://github.com/suriyan658">
-  <img src="https://img.shields.io/badge/GitHub-suriyan658-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-suriyan658-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/suriyan-ns-8ab610316/">
-  <img src="https://img.shields.io/badge/LinkedIn-Suriyan%20N%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Suriyan%20N%20S-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <br><br>
 
-> **"Find your wings, To fly High"**
+<img src="https://komarev.com/ghpvc/?username=suriyan658&label=PROFILE%20VISITORS&style=for-the-badge&color=0EA5E9"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-I'm **Suriyan N S**, a VLSI-focused engineering student who enjoys exploring the intersection of **hardware, software, artificial intelligence, and game development**.
-
-I don't like keeping my curiosity in one place.  
-I'm constantly exploring new technologies, experimenting with ideas, and building things that help me understand how the world of technology works.
-
-- 🎓 Engineering Student specializing in **VLSI**
-- 💻 Exploring **Full-Stack Web Development**
-- 🅰️ Currently working with **Angular**
-- 🤖 Exploring **AI / Machine Learning / LLMs**
-- 🎮 Interested in **Game Development**
-- 🔲 Exploring **VLSI, RTL Design & Electronics**
-- 🌱 Learning something new and improving every day
-
----
-
-# ⚡ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,html,react,nodejs,express" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
-</p>
-
-### 🎮 Game Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=unity,Godot" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,xilings,modelsim," />
-</p>
-
----
-
-# 🅰️ Angular & Full-Stack Development
-
-Currently exploring modern web application development with **Angular** and backend technologies.
-
-### 🔨 Technologies
+## ⚡ `SYSTEM ONLINE`
 
 ```text
-Angular
-TypeScript
-Node.js
-Express.js
-MySQL
-REST APIs
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   SURIYAN N S                                               │
+│                                                              │
+│   [ VLSI ] [ SOFTWARE ] [ AI/ML ] [ GAME DEV ]              │
+│                                                              │
+│   Status       : ONLINE                                     │
+│   Curiosity    : UNLIMITED                                  │
+│   Learning     : CONTINUOUS                                 │
+│   Projects     : LOADING...                                 │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
