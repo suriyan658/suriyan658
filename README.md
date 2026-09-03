@@ -1,15 +1,24 @@
 <div align="center">
 
-# 👋 Hi, I'm Suriyan
+# 👋 Salve, I'm **Suriyan N S**
 
-### VLSI Student • Software Developer • AI/ML Enthusiast
+### VLSI Student • Software Developer • AI/ML Explorer • Game Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Software+%26+AI+Projects;Exploring+VLSI+%26+Electronics;Learning+Full-Stack+Development;Turning+Ideas+Into+Projects" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Software+%26+AI+Projects;Exploring+VLSI+%26+Electronics;Learning+Full-Stack+Development;Creating+Games+%26+Interactive+Experiences;Exploring+AI%2C+LLMs+%26+Intelligent+Systems;Turning+Ideas+Into+Reality" alt="Typing Animation" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-suriyan658-181717?style=for-the-badge&logo=github)](https://github.com/suriyan658)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suriyan-ns-8ab610316/)
+<a href="https://github.com/suriyan658">
+  <img src="https://img.shields.io/badge/GitHub-suriyan658-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/suriyan-ns-8ab610316/">
+  <img src="https://img.shields.io/badge/LinkedIn-Suriyan%20N%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+> **"Find your wings, To fly High"**
 
 </div>
 
@@ -17,30 +26,33 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Suriyan**, a VLSI-focused engineering student passionate about building software, exploring Artificial Intelligence, and understanding how hardware and software work together.
+I'm **Suriyan N S**, a VLSI-focused engineering student who enjoys exploring the intersection of **hardware, software, artificial intelligence, and game development**.
 
-- 🎓 Engineering student specializing in **VLSI**
-- 💻 Learning **Full-Stack Web Development**
+I don't like keeping my curiosity in one place.  
+I'm constantly exploring new technologies, experimenting with ideas, and building things that help me understand how the world of technology works.
+
+- 🎓 Engineering Student specializing in **VLSI**
+- 💻 Exploring **Full-Stack Web Development**
+- 🅰️ Currently working with **Angular**
 - 🤖 Exploring **AI / Machine Learning / LLMs**
-- 🔧 Interested in **VLSI, RTL Design & Electronics**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🚀 Building projects to turn concepts into real-world applications
-- 🌱 Always learning something new
+- 🎮 Interested in **Game Development**
+- 🔲 Exploring **VLSI, RTL Design & Electronics**
+- 🌱 Learning something new and improving every day
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,html,react,nodejs,express" />
 </p>
 
 ### 🗄️ Databases
@@ -55,82 +67,30 @@ I'm **Suriyan**, a VLSI-focused engineering student passionate about building so
 <img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
+### 🎮 Game Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=unity,Godot" />
+</p>
+
 ### 🔧 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,xilings,modelsim," />
 </p>
 
 ---
 
-## 🚀 Current Projects
+# 🅰️ Angular & Full-Stack Development
 
-### 🛰️ SatQuery AI
+Currently exploring modern web application development with **Angular** and backend technologies.
 
-An interactive **Vision-Language Assistant for Remote Sensing Image Analysis**.
-
-Exploring how AI can understand satellite and remote-sensing imagery through natural-language queries.
-
-**Focus:**
-
-- 🛰️ Remote Sensing
-- 👁️ Computer Vision
-- 🤖 Vision-Language Models
-- 🧠 AI / ML
-- 💬 Natural Language Queries
-
----
-
-### 🌐 Full-Stack Development
-
-Currently building web applications using technologies such as:
-
-**React + Node.js + Express + MySQL**
-
-Learning how to design:
-
-- 🔐 Authentication systems
-- ⚡ REST APIs
-- 🗄️ Database-driven applications
-- 📊 Dashboards
-- 💻 Interactive web interfaces
-
----
-
-### 🧠 DSA Practice
-
-Working on fundamental Data Structures & Algorithms concepts including:
-
-- Binary Search Trees
-- Heaps
-- Priority Queues
-- Backtracking
-- Tree Traversals
-- Balanced Binary Trees
-
----
-
-## ⚡ VLSI & Electronics
-
-Alongside software development, I'm exploring the hardware side of engineering.
-
-### Areas I'm interested in:
-
-- 🔲 RTL Design
-- 💡 CMOS
-- 🔌 Analog Circuits
-- 🎛️ Control Systems
-- 🧮 Digital Logic
-- 🖥️ Hardware Description Languages
-- ⚙️ Semiconductor & VLSI Design
-
----
-
-## 🛠️ What I'm Learning
+### 🔨 Technologies
 
 ```text
-AI / ML              ███████████████░░░░░
-Full-Stack           ██████████████░░░░░░
-Data Structures      █████████████░░░░░░░
-VLSI / RTL           ████████████░░░░░░░░
-Cloud / DevOps       ████████░░░░░░░░░░░░
+Angular
+TypeScript
+Node.js
+Express.js
+MySQL
+REST APIs
